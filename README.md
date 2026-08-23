@@ -1,1 +1,1 @@
-# My-Ai
+# My-AI-App
